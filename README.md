@@ -110,7 +110,7 @@ Application will open automatically in your browser.
 ### Input
 
 ```text
-This product is amazing and exceeded my expectations.
+I absolutely loved this movie; it was amazing and enjoyable.
 ```
 
 ### Output
@@ -125,7 +125,7 @@ Confidence: 92.4%
 ### Input
 
 ```text
-Worst purchase I have ever made.
+I really disliked this movie; it was boring and disappointing.
 ```
 
 ### Output
